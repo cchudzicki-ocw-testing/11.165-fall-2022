@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                     
-                                    
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                      
+                                     
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -100,7 +100,9 @@ Deborah A. Sunter, Sergio Castellanos, and Daniel M. Kammen (2019). ["Disparitie
 
 Maximilian Auffhammer. ["Consuming Energy While Black."](https://energyathaas.wordpress.com/2020/06/22/consuming-energy-while-black/) Blog post, Energy Institute at Haas, June 22, 2020.
 
-### Session 8: Buildings Policies
+Shuchen Cong, Destenie Nock, Yueming Lucy Qiu, and Bo Xing (2022). ["Unveiling Hidden Energy Poverty Using the Energy Equity Gap."](https://www.nature.com/articles/s41467-022-30146-5) *Nature Communications* 13(1): 2456.
+
+### Session 9: Building Policies
 
 Elizabeth Shove (2018). ["What Is Wrong with Energy Efficiency?"](https://www.tandfonline.com/doi/full/10.1080/09613218.2017.1361746) *Building Research & Information* 46(7): 779–789, October 2018.
 
