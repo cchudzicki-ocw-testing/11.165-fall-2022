@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                  
-                                 
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                   
+                                  
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -62,15 +62,15 @@ Andrew Revkin. ["When Climate Action Meets Energy Friction: Why Permitting Refor
 
 \[DM\] chapters 3, 20, technical chapter A
 
-Daniel A. Mazmanian (2009). ["Los Angeles’ Clean Air Saga—Spanning the Three Epochs."](https://academic.oup.com/mit-press-scholarship-online/book/13354/chapter/166726900) Chapter 4 in Daniel A. Mazmanian and Michael E. Kraft (eds.), *Toward Sustainable Communities: Transition and Transformations in Environmental Policy*. MIT Press. ISBN 9780262134927.
+Marco Miotti, Geoffrey J. Supran, Ella J. Kim, and Jessika E. Trancik (2016). "Personal Vehicles Evaluated against Climate Change Mitigation Targets." Environmental Science & Technology, 50(20):10795–10804, October 2016. ISSN 0013-936X. doi: 10.1021/acs.est.6b00177. URL https://doi.org/10.1021/acs.est.6b00177. Publisher: American Chemical Society.
 
-John Lippert. "California Has a Plan to End the Auto Industry as We Know It." Bloomberg, August 3, 2015.
+Noah Kittner, Ioannis Tsiropoulos, Dalius Tarvydas, Oliver Schmidt, Iain Staffell, and Daniel M. Kammen (2020). "Electric Vehicles." In Martin Junginger and Atse Louwen (eds.), *Technological Learning in the Transition to a Low-Carbon Energy System*, 145–163. Elsevier. ISBN: 9780128187623.
 
-Mimi Sheller (2015). ["Racialized Mobility Transitions in Philadelphia: Connecting Urban Sustainability and Transport Justice."](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/ciso.12049) *City & Society* 27(1): 70–91.
+Victoria Penney. Electric Cars Are Better for the Planet and Often Your Budget, Too. New York Times, January 2021. URL https://www.nytimes.com/interactive/2021/01/ 15/climate/electric-car-cost.html. \[25\] Andrew J. Hawkins. Yes, the new electric vehicle tax credits are really confusing, but we can help, August 2022. URL https://www.theverge.com/23310457/ inflation-reduction-act-ev-tax-credit-act-explainer-how-to.
 
-Arianna Skibell. ["EPA Faces Mounting Calls for Stronger Tailpipe Rule."](https://subscriber.politicopro.com/article/eenews/2021/08/27/epa-faces-mounting-calls-for-stronger-tailpipe-rule-280070) Greenwire, August 27, 2021.
+M.J. Bradley & Associates. Financial Incentives for Electric Vehicles, 2022. URL https: //www.mjbradley.com/toolkit-policy-financialincentives.
 
-### Session 5: Transport Systems   
+### Session 6: Transport Systems   
 
 \[DM\] chapter 5, technical chapter C
 
@@ -80,7 +80,7 @@ D. S. Lee, D. W. Fahey, A. Skowron, M. R. Allen, U. Burkhardt, Q. Chen, S. J. Do
 
 Stefan Gössling and Andreas Humpe (2020). ["The Global Scale, Distribution and Growth of Aviation: Implications for Climate Change."](https://www.sciencedirect.com/science/article/pii/S0959378020307779) *Global Environmental Change* 65: 102194.
 
-### Session 6: Transportation Impact
+### Session 7: Transportation Impact
 
 Robert D. Bullard (2003). ["Addressing Urban Transportation Equity in the United States."](https://ir.lawnet.fordham.edu/ulj/vol31/iss5/2/) *Fordham Urban Law Journal* 31(5): 1183.      
 
