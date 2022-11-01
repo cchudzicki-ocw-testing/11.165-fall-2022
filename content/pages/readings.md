@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                       
-                                      
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                        
+                                       
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -122,7 +122,7 @@ Jonathan M. Cullen and Julian M. Allwood (2010). ["The Efficient Use of Energy: 
 
 Jonathan M. Cullen and Julian M. Allwood (2010). ["Theoretical Efficiency Limits for Energy Conversion Devices."](https://www.sciencedirect.com/science/article/pii/S0360544210000265?via%3Dihub) *Energy* 35(5): 2059–2069.
 
-\[skim\] Saul Griffith, Sam Calisch, and Laura Fraser. ["The Rewiring America Handbook: A Guide to Winning the Climate Fight."](https://www.rewiringamerica.org/policy/rewiring-america-handbook) Technical report, Rewiring America, July 2020.           
+\[optional\] Saul Griffith, Sam Calisch, and Laura Fraser. ["The Rewiring America Handbook: A Guide to Winning the Climate Fight."](https://www.rewiringamerica.org/policy/rewiring-america-handbook) Technical report, Rewiring America, July 2020.           
 
 ### Session 11:  Industry, Making Stuff
 
@@ -134,11 +134,7 @@ Max Åhman, Lars J. Nilsson, and Bengt Johansson (2017). ["Global Climate Policy
 
 Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller, Joyashree Roy, Paul Fennell, Betty Cremmins, Thomas Koch Blank, David Hone, Ellen D. Williams, Stephane de la Rue du Can, Bill Sisson, Mike Williams, John Katzenberger, Dallas Burtraw, Girish Sethi, He Ping, David Danielson, Hongyou Lu, Tom Lorber, Jens Dinkel, and Jonas Helseth (2020). ["Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070."](https://www.sciencedirect.com/science/article/pii/S0306261920303603) *Applied Energy* 266: 114848.
 
-David Roberts. ["Cities Are Beginning to Own Up to the Climate Impacts of What They Consume."](https://www.vox.com/energy-and-environment/2019/7/1/18743992/climate-change-cities-food-cars-emissions) Vox, July 1, 2019.
-
-C40 Cities Climate Leadership Group, University of Leeds, University of New South Wales, and Arup Partnerships. ["Consumption-Based GHG Emissions of C40 Cities."](https://www.c40knowledgehub.org/s/article/Consumption-based-GHG-emissions-of-C40-cities?language=en_US) Technical report, C40 Cities Climate Leadership Group, 2019.
-
-### Session 11: Fossil, CDR, and Nuclear
+### Session 12: Fossil, CDR, and Nuclear
 
 \[DM\] chapters 23–24
 
