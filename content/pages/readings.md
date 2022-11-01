@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                          
-                                         
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                           
+                                          
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -68,7 +68,7 @@ Noah Kittner, Ioannis Tsiropoulos, Dalius Tarvydas, Oliver Schmidt, Iain Staffel
 
 Victoria Penney. ["Electric Cars Are Better for the Planet and Often Your Budget, Too."](https://www.nytimes.com/interactive/2021/01/15/climate/electric-car-cost.html) *New York Times*, January 15, 2021.
 
-Andrew J. Hawkins. ["Yes, the New Electric Vehicle Tax Credits are Really Confusing, but We Can Help."](https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to) The Verge, August 17, 2022.
+Andrew J. Hawkins. ["Yes, the New Electric Vehicle Tax Credits are Really Confusing, but We Can Help."](https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to) *The Verge*, August 17, 2022.
 
 M.J. Bradley & Associates. ["Financial Incentives for Electric Vehicles."](https://www.mjbradley.com/toolkit-policy-financialincentives) ERM Group, 2022.
 
@@ -138,11 +138,11 @@ Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan
 
 \[DM\] chapters 23–24
 
-David Roberts. ["Sucking Carbon out of the Air Won't Solve Climate Change."](https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering) Vox, June 14, 2018.
+David Roberts. ["Sucking Carbon out of the Air Won't Solve Climate Change."](https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering) *Vox,* June 14, 2018.
 
 David W. Keith, Geoffrey Holmes, David St Angelo, and Kenton Heidel (2018). ["A Process for Capturing CO2 from the Atmosphere."](https://www.sciencedirect.com/science/article/pii/S2542435118302253) *Joule* 2(8): 1573–1594.
 
-Ryan Orbuch. ["Stripe's First Carbon Removal Purchases."](https://stripe.com/blog/first-negative-emissions-purchases) Blog post, Stripe, May 18, 2020.
+Ryan Orbuch. ["Stripe's First Carbon Removal Purchases."](https://stripe.com/blog/first-negative-emissions-purchases) *Stripe*, May 18, 2020.
 
 Nestor A. Sepulveda, Jesse D. Jenkins, Fernando J. de Sisternes, and Richard K. Lester (2018). ["The Role of Firm Low-Carbon Electricity Resources in Deep Decarbonization of Power Generation."](https://www.sciencedirect.com/science/article/pii/S2542435118303866) *Joule* 2(11): 2403–2420.
 
@@ -158,7 +158,7 @@ U.S. Department of Energy. ["Computing Americas Offshore Wind Energy Potential."
 
 U.S. Department of Energy. ["Simple Levelized Cost of Energy (LCOE) Calculator Documentation."](https://www.nrel.gov/analysis/tech-lcoe-documentation.html) Energy Analysis | NREL.
 
-Lazard. ["Lazard's Levelized Cost of Energy Analysis" Version 15.0 (PDF)](https://www.lazard.com/media/451881/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20. October 2020.
+Lazard. [Lazard's Levelized Cost of Energy Analysis 15.0 (PDF)](https://www.lazard.com/media/451881/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20. October 2020.
 
 ### Session 14: Siting Renewables
 
@@ -178,11 +178,15 @@ Lawrence Susskind, Jungwoo Chun, Alexander Gant, Chelsea Hodgkins, Jessica Cohen
 
 Micah S. Ziegler, Joshua M. Mueller, Gonçalo D. Pereira, Juhyun Song, Marco Ferrara, Yet-Ming Chiang, and Jessika E. Trancik (2019). ["Storage Requirements and Costs of Shaping Renewable Energy Toward Grid Decarbonization."](https://www.sciencedirect.com/science/article/pii/S2542435119303009) *Joule* 3(9): 2134–2153.
 
-Diane Cardwell and Andrew Roberts. ["The Biggest, Strangest 'Batteries.'"](https://www.nytimes.com/2017/06/03/business/energy-environment/biggest-batteries.html) *The New York Times*, June 3, 2017.
+Lazard. [Lazard's Levelized Cost of Storage Analysis 7.0 (PDF)](https://www.lazard.com/media/451882/lazards-levelized-cost-of-storage-version-70-vf.pdf), page 20, October 2020.
 
-Lazard. [Lazard's Levelized Cost of Storage Analysis 6.0 (PDF)](https://www.lazard.com/media/451418/lazards-levelized-cost-of-storage-version-60.pdf), page 20, October 2020.    
+Bjorn Brandtzaeg, Patrick Brown, Kevin Huang, and Johannes Pfeifenberger. ["The Future of Energy Storage," Executive Summary (PDF)](https://energy.mit.edu/wp-content/uploads/2022/05/The-Future-of-Energy-Storage-Executive-Summary.pdf). Technical report, MIT Energy Initiative, 2022.
 
-### Session 15: Food and Carbon Sinks
+Ivan Penn. ["A Solar Firm Plans to Build Off-Grid Neighborhoods in California."](https://www.nytimes.com/2022/09/01/business/energy-environment/sunnova-off-grid-neighborhoods.html) *New York Times*, September 1, 2022.
+
+Nicole Wetsman. ["Tesla Quietly Built a Virtual Power Plant in Japan."](https://www.theverge.com/2022/8/29/23326776/tesla-virtual-power-plant-japan-grid-renewable) *The Verge*, August 29, 2022.  
+
+### Session 16: Food and Carbon Sinks
 
 \[DM\] chapter 13
 
