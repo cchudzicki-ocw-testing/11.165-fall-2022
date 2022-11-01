@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                      
-                                     
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                       
+                                      
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -104,29 +104,27 @@ Shuchen Cong, Destenie Nock, Yueming Lucy Qiu, and Bo Xing (2022). ["Unveiling H
 
 ### Session 9: Building Policies
 
-Elizabeth Shove (2018). ["What Is Wrong with Energy Efficiency?"](https://www.tandfonline.com/doi/full/10.1080/09613218.2017.1361746) *Building Research & Information* 46(7): 779–789, October 2018.
-
-Arsalan Heydarian, Claire McIlvennie, Laura Arpan, Siavash Yousefi, Marc Syndicus, Marcel Schweiker, Farrokh Jazizadeh, Romina Rissetto, Anna Laura Pisello, Cristina Piselli, Christiane Berger, Zhuxuan Yan, and Ardeshir Mahdavi (2020). ["What Drives our Behaviors in Buildings? A Review on Occupant Interactions with Building Systems from the Lens of Behavioral Theories."](https://www.sciencedirect.com/science/article/abs/pii/S0360132320302870) *Building and Environment* 179: 106928.
+Carl Blumstein, Betsy Krieg, Lee Schipper, and Carl York (1980). ["Overcoming Social and Institutional Barriers to Energy Conservation."](https://www.sciencedirect.com/science/article/pii/0360544280900365) *Energy* 5(4): 355–371.
 
 Ian G. Hamilton, Alex J. Summerfield, Robert Lowe, Paul Ruyssevelt, Clifford A. Elwell, and Tadj Oreszczyn (2013). ["Energy Epidemiology: A New Approach to End-Use Energy Demand Research."](https://www.tandfonline.com/doi/full/10.1080/09613218.2013.798142) *Building Research & Information* 41(4): 482–497.
 
 Tianzhen Hong, Da Yan, Simona D'Oca, and Chien-Fei Chen. ["Ten Questions Concerning Occupant Behavior in Buildings: The Big Picture."](https://www.sciencedirect.com/science/article/pii/S0360132316304851) *Building and Environment* 114: 518–530.
 
-Carl Blumstein, Betsy Krieg, Lee Schipper, and Carl York (1980). ["Overcoming Social and Institutional Barriers to Energy Conservation."](https://www.sciencedirect.com/science/article/pii/0360544280900365) *Energy* 5(4): 355–371.
+Arsalan Heydarian, Claire McIlvennie, Laura Arpan, Siavash Yousefi, Marc Syndicus, Marcel Schweiker, Farrokh Jazizadeh, Romina Rissetto, Anna Laura Pisello, Cristina Piselli, Christiane Berger, Zhuxuan Yan, and Ardeshir Mahdavi (2020). ["What Drives our Behaviors in Buildings? A Review on Occupant Interactions with Building Systems from the Lens of Behavioral Theories."](https://www.sciencedirect.com/science/article/abs/pii/S0360132320302870) *Building and Environment* 179: 106928.
 
-### Session 9: Energy Efficiency
+### Session 10: Energy Efficiency
 
 \[DM\] chapters 19, 21, 22
+
+Elizabeth Shove (2018). ["What Is Wrong with Energy Efficiency?"](https://www.tandfonline.com/doi/full/10.1080/09613218.2017.1361746) *Building Research & Information* 46(7): 779–789.
 
 Jonathan M. Cullen and Julian M. Allwood (2010). ["The Efficient Use of Energy: Tracing the Global Flow of Energy from Fuel to Service."](https://www.sciencedirect.com/science/article/pii/S0301421509006429) *Energy Policy* 38(1): 75–81.
 
 Jonathan M. Cullen and Julian M. Allwood (2010). ["Theoretical Efficiency Limits for Energy Conversion Devices."](https://www.sciencedirect.com/science/article/pii/S0360544210000265?via%3Dihub) *Energy* 35(5): 2059–2069.
 
-Vaclav Smil (2005). *Energy at the Crossroads: Global Perspectives and Uncertainties*. MIT Press. ISBN: 9780262693240
-
 \[skim\] Saul Griffith, Sam Calisch, and Laura Fraser. ["The Rewiring America Handbook: A Guide to Winning the Climate Fight."](https://www.rewiringamerica.org/policy/rewiring-america-handbook) Technical report, Rewiring America, July 2020.           
 
-### Session 10:  Industry, Making Stuff
+### Session 11:  Industry, Making Stuff
 
 \[DM\] chapter 15, technical chapter H
 
