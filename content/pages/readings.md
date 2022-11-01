@@ -16,7 +16,11 @@ Bill Gates. ["Climate Change and the 75% Problem."](https://www.gatesnotes.com/e
 
 Nikayla Jefferson and Leah C. Stokes. ["Our Racist Fossil Fuel Energy System."](https://www.bostonglobe.com/2020/07/13/opinion/our-racist-fossil-fuel-energy-system/) BostonGlobe.com, July 13, 2020.
 
-Cameron Hepburn, Brian O'Callaghan, Nicholas Stern, Joseph Stiglitz, and Dimitri Zenghelis (2020). ["Will COVID-19 Fiscal Recovery Packages Accelerate or Retard Progress on Climate Change?"](https://academic.oup.com/oxrep/article/36/Supplement_1/S359/5832003) *Oxford Review of Economic Policy* 36(S1): S359–S381.
+Miriam Wasser. ["What to Know about the New Mass. Climate Law."](https://www.wbur.org/news/2022/07/22/massachusetts-climate-bill-baker-desk) WBUR, July 22, 2022.
+
+Amy Turner. ["Cities and the Inflation Reduction Act."](https://blogs.law.columbia.edu/climatechange/2022/08/22/cities-the-inflation-reduction-act/) Climate Law Blog, Columbia Law School, August 22, 2022.
+
+\[optional\] David Hsu, Clinton J. Andrews, Albert T. Han, Carolyn G. Loh, Anna C. Osland, and P. Christopher Zegras, 2022. ["Planning the Built Environment and Land Use towards Deep Decarbonization of the United States."](https://journals.sagepub.com/doi/10.1177/08854122221097977) *Journal of Planning Literature* 0(0): 1–16.
 
 ### Session 2: Cities and Decarbonization
 
@@ -32,8 +36,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                              
-                             
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                               
+                              
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
