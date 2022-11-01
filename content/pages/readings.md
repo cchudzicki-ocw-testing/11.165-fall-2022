@@ -6,7 +6,7 @@ draft: false
 title: Readings
 uid: 6181f96e-9626-4b87-b9aa-75111f8f1ff2
 ---
-\[DM\] = MacKay, David J.C., 2009. [*Sustainable Energy—Without the Hot Air*](http://withouthotair.com/), 1st ed. UIT Cambridge Ltd. ISBN: 9780954452933. 
+\[DM\] = MacKay, David J.C. (2009). [*Sustainable Energy—Without the Hot Air*](http://withouthotair.com/), 1st ed. UIT Cambridge Ltd. ISBN: 9780954452933. 
 
 ### Session 1: Introduction 
 
@@ -38,13 +38,13 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                
-                               
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                 
+                                
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
-Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
+Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
 
-\[skim\] Daniel Raimi, Aurora Barone, Sanya Carley, David Foster, Emily Grubert, Jake Higdon, Michael Kearney, David Konisky, Jennifer Michael, Gilbert Michaud, Sade Nabahe, Nina Peluso, Molly Robertson, and Tony Reames. ["Policy Options to Enable an Equitable Energy Transition."](https://www.rff.org/publications/reports/policy-options-to-enable-an-equitable-energy-transition/) Technical report, Resources for the Future, April 2021 
+\[optional\] Daniel Raimi, Aurora Barone, Sanya Carley, David Foster, Emily Grubert, Jake Higdon, Michael Kearney, David Konisky, Jennifer Michael, Gilbert Michaud, Sade Nabahe, Nina Peluso, Molly Robertson, and Tony Reames. ["Policy Options to Enable an Equitable Energy Transition."](https://www.rff.org/publications/reports/policy-options-to-enable-an-equitable-energy-transition/) Technical report, Resources for the Future, April 2021 
 
 ### Session 4: Personal Transport
 
