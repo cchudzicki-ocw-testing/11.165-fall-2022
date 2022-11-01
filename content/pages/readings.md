@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                         
-                                        
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                          
+                                         
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -158,9 +158,9 @@ U.S. Department of Energy. ["Computing Americas Offshore Wind Energy Potential."
 
 U.S. Department of Energy. ["Simple Levelized Cost of Energy (LCOE) Calculator Documentation."](https://www.nrel.gov/analysis/tech-lcoe-documentation.html) Energy Analysis | NREL.
 
-Lazard. ["Lazard's Levelized Cost of Energy Analysis" Version 15.0 (PDF)](https://www.lazard.com/media/451881/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20.
+Lazard. ["Lazard's Levelized Cost of Energy Analysis" Version 15.0 (PDF)](https://www.lazard.com/media/451881/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20. October 2020.
 
-### Session 13: More Renewables
+### Session 14: Siting Renewables
 
 \[DM\] chapters 10, 16, 18
 
@@ -168,15 +168,11 @@ David J. C. MacKay (2013). ["Could Energy-Intensive Industries Be Powered by Car
 
 David J. C. MacKay (2013). ["Solar Energy in the Context of Energy Use, Energy Transportation and Energy Storage."](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0431) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1996): 20110431.
 
-William H. Schlesinger (2018). ["Are Wood Pellets a Green Fuel?"](https://www.science.org/doi/10.1126/science.aat2305?cookieSet=1) *Science* 359(6382): 1328–1329.
+Sanya Carley, David M. Konisky, Zoya Atiq, and Nick Land (2020). ["Energy Infrastructure, NIMBYism, and Public Opinion: A Systematic Literature Review of Three Decades of Empirical Survey Literature."](https://iopscience.iop.org/article/10.1088/1748-9326/ab875d/meta) *Environmental Research Letters* 15(9): 093007.
 
-U.S. Department of Energy. ["Computing America's Offshore Wind Energy Potential."](https://www.energy.gov/eere/articles/computing-america-s-offshore-wind-energy-potential) Office of Energy Efficiency and Renewable Energy, September 2016.
+Lawrence Susskind, Jungwoo Chun, Alexander Gant, Chelsea Hodgkins, Jessica Cohen, and Sarah Lohmar (2022). ["Sources of Opposition to Renewable Energy Projects in the United States."](https://www.sciencedirect.com/science/article/pii/S0301421522001471?via%3Dihub) *Energy Policy* 165: 112922.
 
-U.S. Department of Energy. ["Simple Levelized Cost of Energy (LCOE) Calculator Documentation"](https://www.nrel.gov/analysis/tech-lcoe-documentation.html) NREL Energy Analysis. Accessed August 23, 2022.
-
-Lazard. [Lazard's Levelized Cost of Energy Analysis 14.0 (PDF)](https://www.lazard.com/media/451419/lazards-levelized-cost-of-energy-version-140.pdf), page 20. October 2020.
-
-### Session 14: Distributed Resources
+### Session 15: Distributed Resources
 
 \[DM\] chapters 25–27
 
