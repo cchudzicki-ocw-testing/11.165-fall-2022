@@ -26,18 +26,20 @@ Amy Turner. ["Cities and the Inflation Reduction Act."](https://blogs.law.columb
 
 James H. Williams, Ryan A. Jones, Ben Haley, Gabe Kwok, Jeremy Hargreaves, Jamil Farbes, and Margaret S. Torn (2021). ["Carbon-Neutral Pathways for the United States."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020AV000284) *AGU Advances* 2(1): e2020AV000284.
 
-Felix Creutzig, Giovanni Baiocchi, Robert Bierkandt, Peter-Paul Pichler, and Karen C. Seto (2015). ["Global Typology of Urban Energy Use and Potentials for an Urbanization Mitigation Wedge."](https://www.pnas.org/doi/10.1073/pnas.1315545112) *Proceedings of the National Academy of Sciences* 112(20): 6283–6288.
+David Roberts. ["Cities Are Beginning to Own Up to the Climate Impacts of What They Consume."](https://www.vox.com/energy-and-environment/2019/7/1/18743992/climate-change-cities-food-cars-emissions) *Vox*, July 1, 2019.
 
 Angel Hsu, Niklas Höhne, Takeshi Kuramochi, Mark Roelfsema, Amy Weinfurter, Yihao Xie, Katharina Lütkehermöller, Sander Chan, Jan Corfee-Morlot, Philip Drost, Pedro Faria, Ann Gardiner, David J. Gordon, Thomas Hale, Nathan E. Hultman, John Moorhead, Shirin Reuvers, Joana Setzer, Neelam Singh, Christopher Weber, and Oscar Widerberg (2019). ["A Research Roadmap for Quantifying Non-state and Subnational Climate Mitigation Action."](https://www.nature.com/articles/s41558-018-0338-z) *Nature Climate Change* 9(1): 11–17.
 
 Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng Hong, Yue Qin, and Steven J. Davis (2019). ["Committed Emissions from Existing Energy Infrastructure Jeopardize 1.5 °C Climate Target."](https://www.nature.com/articles/s41586-019-1364-3) *Nature* 572(7769): 373–377.
 
-\[skim\] Samuel A Markolf, Inês M. L. Azevedo, Mark Muro, and David G Victor. ["Pledges and Progress: Steps toward Greenhouse Gas Emissions Reductions in the 100 Largest Cities across the United States."](https://www.brookings.edu/research/pledges-and-progress-steps-toward-greenhouse-gas-emissions-reductions-in-the-100-largest-cities-across-the-united-states/) Technical report, Brookings Institution, October 2020.
+\[optional\] C40 Cities Climate Leadership Group, University of Leeds, University of New South Wales, and Arup Partnerships. ["Consumption-Based GHG Emissions of C40 Cities."](https://www.c40knowledgehub.org/s/article/Consumption-based-GHG-emissions-of-C40-cities?language=en_US) Technical report, 2019.
+
+\[optional\] Samuel A Markolf, Inês M. L. Azevedo, Mark Muro, and David G Victor. ["Pledges and Progress: Steps toward Greenhouse Gas Emissions Reductions in the 100 Largest Cities across the United States."](https://www.brookings.edu/research/pledges-and-progress-steps-toward-greenhouse-gas-emissions-reductions-in-the-100-largest-cities-across-the-united-states/) Technical report, Brookings Institution, October 2020.
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                               
-                              
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                
+                               
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
