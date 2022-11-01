@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                    
-                                   
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                     
+                                    
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -76,11 +76,13 @@ M.J. Bradley & Associates. ["Financial Incentives for Electric Vehicles."](https
 
 \[DM\] chapter 5, technical chapter C
 
+Mimi Sheller (2015). ["Racialized Mobility Transitions in Philadelphia: Connecting Urban Sustainability and Transport Justice."](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/ciso.12049) *City & Society* 27(1): 70–91.
+
 Aiofe O'Leary (2019). "Aviation." Chapter 16 in Michael B. Gerrard and John C. Dernbach (eds.), *Legal Pathways to Deep Decarbonization in the United States*, 1st ed. Environmental Law Institute. ISBN: 9781585761975
 
-D. S. Lee, D. W. Fahey, A. Skowron, M. R. Allen, U. Burkhardt, Q. Chen, S. J. Doherty, S. Freeman, P. M. Forster, J. Fuglestvedt, A. Gettelman, R. R. De León, L. L. Lim, M. T. Lund, R. J. Millar, B. Owen, J. E. Penner, G. Pitari, M. J. Prather, R. Sausen, and L. J. Wilcox (2021). ["The Contribution of Global Aviation to Anthropogenic Climate Forcing for 2000 to 2018."](https://www.sciencedirect.com/science/article/pii/S1352231020305689) *Atmospheric Environment* 244: 117834.
-
 Stefan Gössling and Andreas Humpe (2020). ["The Global Scale, Distribution and Growth of Aviation: Implications for Climate Change."](https://www.sciencedirect.com/science/article/pii/S0959378020307779) *Global Environmental Change* 65: 102194.
+
+\[optional\] Patrick Bigger, Johanna Bozuwa, Mijin Cha, Daniel Aldana Cohen, Billy Fleming, Yonah Freemark, Batul Hassan, Mark Paul, and Thea Riofrancos. ["Inflation Reduction Act: The Good, The Bad, The Ugly" (PDF)](https://www.climateandcommunity.org/_files/ugd/d6378b_f05b177ba6b142aaa50ca7111a91f08b.pdf). Technical report, Climate and Community Project, 2022.
 
 ### Session 7: Transportation Impact
 
@@ -88,9 +90,9 @@ Robert D. Bullard (2003). ["Addressing Urban Transportation Equity in the United
 
 Tim Gore. ["Confronting Carbon Inequality: Putting Climate Justice at the Heart of the COVID-19 Recovery."](https://www.oxfam.org/en/research/confronting-carbon-inequality) Policy paper, Oxfam International, September 2020.
 
-\[skim\] Cambridge Systematics (2009). *Moving Cooler: An Analysis of Transportation Strategies for Reducing Greenhouse Gas Emissions*. Urban Land Institute,. ISBN: 9780874201185
+Colin McKerracher, Aleksandra ODonovan, Nikolas Soulopoulos, Andrew Grant, Siyi Mi, David Doherty, Ryan Fisher, Corey Cantor, Jinghong Lyu, Kwasi Ampofo, Andy Leach, Yayoi Sekine, Laura Malo Yague, William Edmonds, Komal Kareer, and Takehiro Kawahara. ["Electric Vehicle Outlook 2022."](https://about.bnef.com/electric-vehicle-outlook/) Technical report, Bloomberg New Energy Finance, 2022.
 
-### Session 7: Building Energy Use
+### Session 8: Building Energy Use
 
 \[DM\] chapters 7, 9, 11, technical chapter E
 
