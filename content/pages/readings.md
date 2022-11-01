@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                        
-                                       
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                         
+                                        
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -134,7 +134,7 @@ Max Åhman, Lars J. Nilsson, and Bengt Johansson (2017). ["Global Climate Policy
 
 Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller, Joyashree Roy, Paul Fennell, Betty Cremmins, Thomas Koch Blank, David Hone, Ellen D. Williams, Stephane de la Rue du Can, Bill Sisson, Mike Williams, John Katzenberger, Dallas Burtraw, Girish Sethi, He Ping, David Danielson, Hongyou Lu, Tom Lorber, Jens Dinkel, and Jonas Helseth (2020). ["Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070."](https://www.sciencedirect.com/science/article/pii/S0306261920303603) *Applied Energy* 266: 114848.
 
-### Session 12: Fossil, CDR, and Nuclear
+### Session 12: Fossil, CCUS, and Nuclear
 
 \[DM\] chapters 23–24
 
@@ -146,17 +146,27 @@ Ryan Orbuch. ["Stripe's First Carbon Removal Purchases."](https://stripe.com/blo
 
 Nestor A. Sepulveda, Jesse D. Jenkins, Fernando J. de Sisternes, and Richard K. Lester (2018). ["The Role of Firm Low-Carbon Electricity Resources in Deep Decarbonization of Power Generation."](https://www.sciencedirect.com/science/article/pii/S2542435118303866) *Joule* 2(11): 2403–2420.
 
-### Session 12: Solar, Wind
+Edwin Lyman and John Mecklin. ["The Diablo Canyon Nuclear Plant: Assessing the Seismic Risks of Extended Operation."](https://thebulletin.org/2022/08/the-diablo-canyon-nuclear-plant-assessing-the-seismic-risks-of-extended-operation/) *Bulletin of the Atomic Scientists*, August 15, 2022.
 
-\[DM\] chapters 4, 6, 8, technical chapters B, D
+### Session 13: Renewable Resources
 
-David J. C. MacKay (2013). ["Could Energy-Intensive Industries Be Powered by Carbon-Free Electricity?"](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0560) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1986): 20110560.
+\[DM\] chapters 4, 6, 8, 10, 16, 18, technical chapters B, D
 
-David J. C. MacKay (2013). ["Solar Energy in the Context of Energy Use, Energy Transportation and Energy Storage."](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0431) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1996): 20110431.
+William H. Schlesinger (2018). ["Are Wood Pellets a Green Fuel?"](https://www.science.org/doi/10.1126/science.aat2305) *Science* 359(6382): 1328–1329.
+
+U.S. Department of Energy. ["Computing Americas Offshore Wind Energy Potential."](https://www.energy.gov/eere/articles/computing-america-s-offshore-wind-energy-potential) September 2016.
+
+U.S. Department of Energy. ["Simple Levelized Cost of Energy (LCOE) Calculator Documentation."](https://www.nrel.gov/analysis/tech-lcoe-documentation.html) Energy Analysis | NREL.
+
+Lazard. ["Lazard's Levelized Cost of Energy Analysis" Version 15.0 (PDF)](https://www.lazard.com/media/451881/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20.
 
 ### Session 13: More Renewables
 
 \[DM\] chapters 10, 16, 18
+
+David J. C. MacKay (2013). ["Could Energy-Intensive Industries Be Powered by Carbon-Free Electricity?"](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0560) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1986): 20110560.
+
+David J. C. MacKay (2013). ["Solar Energy in the Context of Energy Use, Energy Transportation and Energy Storage."](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0431) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1996): 20110431.
 
 William H. Schlesinger (2018). ["Are Wood Pellets a Green Fuel?"](https://www.science.org/doi/10.1126/science.aat2305?cookieSet=1) *Science* 359(6382): 1328–1329.
 
