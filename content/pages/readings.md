@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                           
-                                          
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                            
+                                           
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -186,37 +186,23 @@ Ivan Penn. ["A Solar Firm Plans to Build Off-Grid Neighborhoods in California."]
 
 Nicole Wetsman. ["Tesla Quietly Built a Virtual Power Plant in Japan."](https://www.theverge.com/2022/8/29/23326776/tesla-virtual-power-plant-japan-grid-renewable) *The Verge*, August 29, 2022.  
 
-### Session 16: Food and Carbon Sinks
+### Sessions 16, 17
 
-\[DM\] chapter 13
+\[Exam prep and midterm exam—no readings assigned\]
 
-\[skim\] Global Carbon Project (GCP). ["Global Methane Budget."](https://www.globalcarbonproject.org/methanebudget/) Technical report, July 2020.
-
-Diana Pape, Jan Lewandrowski, Rachel Steele, Derina Man, Marybeth Riley-Gilbert, Katrin Moffroid, and Sarah Kolansky. ["Managing Agricultural Land for Greenhouse Gas Mitigation within the United States" (PDF - 4 MB).](https://www.usda.gov/sites/default/files/documents/White_Paper_WEB71816.pdf) Technical report, ICF International, July 2016.
-
-Xiongxiong Bai, Yawen Huang, Wei Ren, Mark Coyne, Pierre-Andre Jacinthe, Bo Tao, Dafeng Hui, Jian Yang, and Chris Matocha (2019). ["Responses of Soil Carbon Sequestration to Climate-Smart Agriculture Practices: A Meta-analysis."](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14658) *Global Change Biology* 25(8): 2591–2606.
-
-Ray Tomalty. ["Carbon in the Bank—Ontario's Greenbelt and Its Role in Mitigating Climate Change."](https://davidsuzuki.org/science-learning-centre-article/carbon-bank-ontarios-greenbelt-role-mitigating-climate-change/) Technical report, David Suzuki Foundation, August 2012.
-
-A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https://www.nature.com/articles/ncomms13835) *Nature Communications* 7(1): 13835.
-
-### Session 16: 
-
-\[Midterm exam—no readings assigned\]
-
-### Session 17: "The Grid" System
+### Session 18: "The Grid" System
 
 Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market Basics (PDF - 10.5 MB)](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf), chapters 1, 3, 5, 6. Technical report, 2015.
 
-### Session 18: "The Grid" Continued
+### Session 19: "The Grid" Continued
 
 Keith Dennis, Ken Colburn, and Jim Lazar (2016). ["Environmentally Beneficial Electrification: The Dawn of 'Emissions Efficiency.'"](https://www.cooperative.com/programs-services/bts/Pages/Environmentally-Beneficial-Electrification-The-Dawn-of-Emissions-Efficiency.aspx) *The Electricity Journal* 29(6): 52–58.
 
 Drew Shindell and Christopher J. Smith (2019). "Climate and Air-Quality Benefits of a Realistic Phase-Out of Fossil Fuels." *Nature* 573(7774): 408–411.
 
-U.S. Department of Energy. ["Electrification Futures Study: A Technical Evaluation of the Impacts of an Electrified U.S. Energy System."](https://www.nrel.gov/analysis/electrification-futures.html) NREL Energy Analysis. Accessed August 23, 2022.
+\[read one sector\] U.S. Department of Energy. ["Electrification Futures Study: A Technical Evaluation of the Impacts of an Electrified U.S. Energy System."](https://www.nrel.gov/analysis/electrification-futures.html) NREL Energy Analysis. Accessed August 23, 2022.
 
-### Session 19: Regulation
+### Session 20: Regulation
 
 Kenneth E. Train (1991). *Optimal Regulation: The Economic Theory of Natural Monopoly*, chapter 1. The MIT Press. ISBN: 9780262200844
 
@@ -226,7 +212,7 @@ Ari Peskoe (2010). ["A Challenge for Federalism: Achieving National Goals in the
 
 Scott Hempling (2012). ["Promoting Diversity and Prohibiting Discrimination: Is There a Regulatory Obligation to Society?" (PDF)](https://secureservercdn.net/198.71.233.202/012.6a8.myftpupload.com/wp-content/uploads/2021/10/Promoting-Diversity-and-Prohibiting-Discrimination-Jan-2012.pdf).
 
-### Session 20: Ownership
+### Session 21: Ownership
 
 Richard F. Hirsh (2013). ["Fifteen Years Later: Whither Restructuring in the American Electric Utility System?"](https://www.technologystories.org/fifteen-years-later-whither-restructuring-in-the-american-electric-utility-system/) *Technology's Stories* 1(1) 
 
@@ -244,7 +230,7 @@ Herman K. Trabish. ["As 100% Renewables Goals Proliferate, What Role for Utilit
 
 David Roberts. ["A Major US Utility is Moving toward 100% Clean Energy Faster than Expected."](https://www.vox.com/energy-and-environment/2018/12/5/18126920/xcel-energy-100-percent-clean-carbon-free) Vox, December 5, 2018.
 
-### Session 21: Scales and Choices
+### Session 22: Scales and Choices
 
 Michael Wara (2016). ["Competition at the Grid Edge: Innovation and Antitrust Law in the Electricity Sector."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2765502) *New York University Environmental Law Journal*, 25(2): 176–222.
 
@@ -256,7 +242,7 @@ Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Sol
 
 \[skim\] Rocky Mountain Institute. ["The Economics of Load Defection: How Grid-Connected Solar-Plus-Battery Systems Will Compete with Traditional Electric Service, Why it Matters, and Possible Paths Forward."](https://rmi.org/insight/the-economics-of-load-defection-how-grid-connected-solar-plus-battery-systems-will-compete-with-traditional-electric-service-why-it-matters-and-possible-paths-forward-executive-summary/) Technical report, Rocky Mountain Institute, 2015.
 
-### Session 22: Possible Futures
+### Session 23: Possible Futures
 
 Tineke van der Schoor, Harro van Lente, Bert Scholtens, and Alexander Peine (2016). ["Challenging Obduracy: How Local Communities Transform the Energy System."](https://www.sciencedirect.com/science/article/abs/pii/S2214629615300967) *Energy Research & Social Science* 13: 94–105.
 
@@ -269,3 +255,15 @@ David Hsu (202). ["Straight out of Cape Cod: The Origin of Community Choice Aggr
 ### Sessions 23–26
 
 \[No readings assigned\]
+
+\[DM\] chapter 13
+
+\[skim\] Global Carbon Project (GCP). ["Global Methane Budget."](https://www.globalcarbonproject.org/methanebudget/) Technical report, July 2020.
+
+Diana Pape, Jan Lewandrowski, Rachel Steele, Derina Man, Marybeth Riley-Gilbert, Katrin Moffroid, and Sarah Kolansky. ["Managing Agricultural Land for Greenhouse Gas Mitigation within the United States" (PDF - 4 MB).](https://www.usda.gov/sites/default/files/documents/White_Paper_WEB71816.pdf) Technical report, ICF International, July 2016.
+
+Xiongxiong Bai, Yawen Huang, Wei Ren, Mark Coyne, Pierre-Andre Jacinthe, Bo Tao, Dafeng Hui, Jian Yang, and Chris Matocha (2019). ["Responses of Soil Carbon Sequestration to Climate-Smart Agriculture Practices: A Meta-analysis."](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14658) *Global Change Biology* 25(8): 2591–2606.
+
+Ray Tomalty. ["Carbon in the Bank—Ontario's Greenbelt and Its Role in Mitigating Climate Change."](https://davidsuzuki.org/science-learning-centre-article/carbon-bank-ontarios-greenbelt-role-mitigating-climate-change/) Technical report, David Suzuki Foundation, August 2012.
+
+A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https://www.nature.com/articles/ncomms13835) *Nature Communications* 7(1): 13835.
