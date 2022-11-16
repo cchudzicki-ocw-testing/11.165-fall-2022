@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                             
-                                            
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                              
+                                             
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -84,7 +84,7 @@ Stefan Gössling and Andreas Humpe (2020). ["The Global Scale, Distribution and 
 
 \[optional\] Patrick Bigger, Johanna Bozuwa, Mijin Cha, Daniel Aldana Cohen, Billy Fleming, Yonah Freemark, Batul Hassan, Mark Paul, and Thea Riofrancos. ["Inflation Reduction Act: The Good, The Bad, The Ugly" (PDF)](https://www.climateandcommunity.org/_files/ugd/d6378b_f05b177ba6b142aaa50ca7111a91f08b.pdf). Technical report, Climate and Community Project, 2022.
 
-### Session 7: Transportation Impact
+### Session 7: Transportation Systems: What Can Cities Do?
 
 Robert D. Bullard (2003). ["Addressing Urban Transportation Equity in the United States."](https://ir.lawnet.fordham.edu/ulj/vol31/iss5/2/) *Fordham Urban Law Journal* 31(5): 1183.      
 
