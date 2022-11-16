@@ -74,8 +74,8 @@ Optional companion books focusing on materials and food may interest some of you
 
 You should do regular readings to educate yourself during the class—and beyond!—on specific areas of interest. I will start most classroom days with a brief discussion about current events related to our reading. News services have greatly expanded their coverage of energy, climate, as well as related policies and legislation.
 
-- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the New York Times ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the Washington Post ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the Wall Street Journal ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); Financial Times ([Climate Capital](https://www.ft.com/climate-capital)); the Boston Globe ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the Los Angeles 
-    
+- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the New York Times ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the Washington Post ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the Wall Street Journal ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); Financial Times ([Climate Capital](https://www.ft.com/climate-capital)); the Boston Globe ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the Los Angeles   
+      
     Times ([Boiling Point](https://www.latimes.com/newsletters/boiling-point)). 
 - Magazines and journals such as the New Yorker (Bill McKibben, Elizabeth Kolbert) and the Atlantic (Robinson Meyer)
 - [E&E News](https://www.eenews.net/get-access/)
@@ -101,7 +101,7 @@ Session 5: Consumption: Personal Transport; problem set 4 due
 
 Session 6: Consumption: Transport Systems; problem set 5 due
 
-Session 7: Consumption: Transportation Impact; problem set 6 due
+Session 7: Consumption: Transportation Systems: What Can Cities Do?; problem set 6 due
 
 Session 8: Consumption:  Building Energy Use; problem set 7 due
 
