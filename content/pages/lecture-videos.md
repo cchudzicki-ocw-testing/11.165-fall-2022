@@ -3,7 +3,7 @@ content_type: page
 description: This page presents links to slide decks from the lectures for 11.165
   Urban Energy Systems and Policy.
 draft: false
-title: Lecture Notes
+title: Lecture Slides
 uid: 5fed9bbb-3091-425f-bbf9-f7793ca18270
 ---
 Lecture 1: Cities and Climate Action: Or, Why Take This Class?
