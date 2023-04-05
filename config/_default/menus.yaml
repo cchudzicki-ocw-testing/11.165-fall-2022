@@ -8,7 +8,7 @@ leftnav:
   url: /pages/readings
   weight: 20
 - identifier: 5fed9bbb-3091-425f-bbf9-f7793ca18270
-  name: Lecture Videos
+  name: Lecture Slides
   url: /pages/lecture-videos
   weight: 30
 - identifier: d65833b2-459f-409e-9fe4-0685952897a2
