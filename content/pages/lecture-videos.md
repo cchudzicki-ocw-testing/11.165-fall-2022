@@ -35,3 +35,5 @@ uid: 5fed9bbb-3091-425f-bbf9-f7793ca18270
 {{% resource_link "72f60de4-edea-485b-b7d9-fe7d51229ec7" "Lecture 14: Cities and Renewable Energy, part 2: Solar (PDF - 1.8 MB)" %}}
 
 {{% resource_link "c96e9d39-03be-4807-97d4-58cc7fe45961" "Lecture 15: Cities and the Grid (PDF - 2.1 MB)" %}}
+
+Note: Slides for lectures 16 through 22 are not available at this time.
