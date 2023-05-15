@@ -33,7 +33,7 @@ This course is designed for any students interested in learning how to intervene
 
 These topics are especially exciting in this place and this year, given that the US Congress has passed its first climate legislation in thirty years, and Massachusetts continues to pass aggressive climate legislation.
 
-## Learning objectives 
+## Learning Objectives 
 
 - Learn about the role and potential of cities and users to shape the energy system
 - Develop understanding of energy systems, infrastructure, and technology in cities
@@ -55,13 +55,13 @@ Putting the two halves together will help you decide where and how to intervene 
 
 In the beginning of class, we will build a composite picture of our class, using our personal experiences and visions for the future to energy systems that you are familiar with. Please calculate the current carbon emissions for yourself and/or an average resident for where (a) you lived before MIT and (b) where and how you think you will live in 2050, using the [CoolClimate calculator](https://coolclimate.berkeley.edu/calculator).
 
-For each lecture, we will be “flipping” the classroom; I will record a short video lecture before class that highlights key issues from the reading material and that sets the stage for our class exercises and discussion. Then, in each class, we will discuss (a) recent news developments, (b) the class assignment, which will take the form of short problem sets that either test you on reading comprehension or basic calculation exercises, and (c) a student will volunteer to help stimulate discussion and debate about the complex aspects of cities, climate, and energy (the fun part!).
+For each lecture, we will be “flipping” the classroom; I will record a {{% resource_link "e5fb600c-2151-49c5-8f85-166a460c6ce9" "short video lecture" %}} before class that highlights key issues from the reading material and that sets the stage for our class exercises and discussion. Then, in each class, we will discuss (a) recent news developments, (b) the class assignment, which will take the form of short problem sets that either test you on reading comprehension or basic calculation exercises, and (c) a student will volunteer to help stimulate discussion and debate about the complex aspects of cities, climate, and energy (the fun part!).
 
 ## Readings
 
 The primary text for the class is: 
 
-- MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed., UIT Cambridge Ltd. ISBN: 9780954452933. This can be downloaded legally as a PDF or read in webpage format [here](http://withouthotair.com/).
+- MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed., UIT Cambridge Ltd. ISBN: 9780954452933. This can be [downloaded legally as a PDF or read in webpage format here](http://withouthotair.com/).
 
 Other papers assigned for each class are listed on the {{% resource_link "c1dcc394-8b93-4ab1-a0b0-eae57ec3b56c" "Readings" %}} page. I may occasionally modify the weekly readings, in which case I will notify you in advance. 
 
@@ -74,9 +74,7 @@ Optional companion books focusing on materials and food may interest some of you
 
 You should do regular readings to educate yourself during the class—and beyond!—on specific areas of interest. I will start most classroom days with a brief discussion about current events related to our reading. News services have greatly expanded their coverage of energy, climate, as well as related policies and legislation.
 
-- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the New York Times ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the Washington Post ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the Wall Street Journal ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); Financial Times ([Climate Capital](https://www.ft.com/climate-capital)); the Boston Globe ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the Los Angeles     
-      
-    Times ([Boiling Point](https://www.latimes.com/newsletters/boiling-point)). 
+- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the New York Times ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the Washington Post ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the Wall Street Journal ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); Financial Times ([Climate Capital](https://www.ft.com/climate-capital)); the Boston Globe ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the Los Angeles Times ([Boiling Point](https://www.latimes.com/newsletters/boiling-point)). 
 - Magazines and journals such as the New Yorker (Bill McKibben, Elizabeth Kolbert) and the Atlantic (Robinson Meyer)
 - [E&E News](https://www.eenews.net/get-access/)
 
@@ -166,13 +164,13 @@ Before each class, watching my video lecture, doing the reading and a basic calc
 
 The final paper assignment will synthesize what you learn over the semester by considering the prospects for a technological or policy innovation in a city of your choosing (I recommend your home or future city). Undergraduates will be expected to write a short paper of 8 pages minimum. Graduate students will write a paper of 12 pages minimum, with the additional task of analyzing their chosen city in terms of its expected future demographic changes. 
 
-We will have group discussions in the last three classes to share knowledge from our papers. This is also a good chance to put finishing touches on your final paper. Writing a good paper is much easier if you plan ahead, get feedback or help from your classmates, the MIT Writing and Communication Center, and myself, and have time to revise.
+We will have group discussions in the last three classes to share knowledge from our papers. This is also a good chance to put finishing touches on your final paper. Writing a good paper is much easier if you plan ahead, get feedback or help from your classmates, the MIT [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/), and myself, and have time to revise.
 
 Problem sets and reading questions are due by midnight (11:59 pm) the day before class. Earlier is better for your sleep, though! For more details on the expectations for the assignments, see the {{% resource_link "5da90314-a12e-44d0-88dd-6f3ab1ffbe35" "Assignments" %}} page.
 
 ### Extensions
 
-Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically if you miss the midnight deadline. I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the [Office of Graduate Education](https://oge.mit.edu/); if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
+Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically if you miss the midnight deadline. I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the Office of Graduate Education; if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
 
 ## Academic Integrity
 
