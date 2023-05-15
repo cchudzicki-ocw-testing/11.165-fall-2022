@@ -9,7 +9,7 @@ uid: d65833b2-459f-409e-9fe4-0685952897a2
 ## Due Dates
 
 - The week before class: Read the material well in advance. If you have signed up to help lead discussion, then the week before, send me an email suggesting an activity for class discussion. This can be a prompt, a debate, or a news article, whatever you want to talk about with your classmates. 
-- The day before class: problem sets and/or reading questions are due by midnight (11:59 pm).
+- The day before class: Problem sets and/or reading questions are due by midnight (11:59 pm).
 - Session 16: Paper proposal: one-page single-spaced proposal maximum for your final paper (see below). The topic is not binding, but I want you to think about the topic and area early so you can look out for, and suggest to each other, material for your papers.
 - Session 17: The midterm exam will follow a similar format as the problem sets. I will give some additional problems for practice beforehand.
 - Sessions 24–26: Short presentations, schedule TBD based on student interests (and numbers). One slide maximum, 16 point font minimum, must be circulated to your classmates and me in PDF format one full day beforehand.
