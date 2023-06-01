@@ -20,9 +20,9 @@ uid: 5fed9bbb-3091-425f-bbf9-f7793ca18270
 
 {{% resource_link "b4eb17b7-415d-4630-a3e6-e814851ef48c" "Lecture 7: Transportation Systems: What Can Cities Do? (PDF - 1.6 MB)" %}}
 
-{{% resource_link "b4eb17b7-415d-4630-a3e6-e814851ef48c" "Lecture 8: Buildings and Energy Efficiency (PDF - 1.8 MB)" %}}
+{{% resource_link "c38cdc1a-9286-4f94-baa3-293fbf58d789" "Lecture 8: Buildings and Energy Efficiency (PDF - 1.8 MB)" %}}
 
-{{% resource_link "c38cdc1a-9286-4f94-baa3-293fbf58d789" "Lecture 9: Building Energy Policies (PDF - 1.5 MB)" %}}
+{{% resource_link "cf0a512e-a7b9-4acc-8841-88a3a8e82572" "Lecture 9: Building Energy Policies (PDF - 1.5 MB)" %}}
 
 {{% resource_link "661c1377-d740-4771-9a09-43a0b7bdb6b1" "Lecture 10: Cities and the Idea of Energy Efficiency (PDF - 1.8 MB)" %}}
 
