@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture15_2022oct29.mp4
+title: 'Lecture 15: Cities and the Grid'
 uid: 33d7c674-19fd-4a9e-8206-386904ae8d1b
 video_files:
   archive_url: ''
