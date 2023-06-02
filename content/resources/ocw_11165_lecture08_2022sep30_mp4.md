@@ -8,7 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: OCW_11.165_Lecture08_2022sep30.mp4
@@ -19,8 +20,15 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/EXYw8_pnKr0/default.jpg
   video_transcript_file: /courses/11-165j-urban-energy-systems-and-policy-fall-2022/1NQDD9qDAUiMNUn81C5B1kZEcOscSZgsQ_transcript.pdf
 video_metadata:
-  video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_speakers: Prof. David Hsu
+  video_tags: heat pumps, R values, indoor air quality, climate zones, smart thermostats
+  youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
+    \ Prof. David Hsu\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
+    In this video, Prof. Hsu discusses ways to increase the energy efficiency of new\
+    \ or existing buildings.  \nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ"
   youtube_id: EXYw8_pnKr0
 ---
+In this video, Prof. Hsu discusses ways to increase the energy efficiency of new or existing buildings.
