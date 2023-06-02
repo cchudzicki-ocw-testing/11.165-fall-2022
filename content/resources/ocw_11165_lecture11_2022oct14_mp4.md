@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture11_2022oct14.mp4
+title: 'Lecture 11: Cities and Industrial Emissions'
 uid: 9631a8b7-4a5f-4543-b54b-528f5cdfe07d
 video_files:
   archive_url: ''
