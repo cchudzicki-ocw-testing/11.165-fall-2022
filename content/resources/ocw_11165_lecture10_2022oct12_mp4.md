@@ -26,18 +26,25 @@ video_metadata:
 
     Instructor: Prof. David Hsu
 
+
     View the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/
 
+
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG
+
 
     In this video, Prof. Hsu discusses the viability of efforts to reduce energy consumption
     by increasing efficiency.
 
+
     License: Creative Commons BY-NC-SA
+
 
     More information at https://ocw.mit.edu/terms
 
+
     More courses at https://ocw.mit.edu
+
 
     Support OCW at http://ow.ly/a1If50zVRlQ'
   youtube_id: u1_Wq00b4J8
