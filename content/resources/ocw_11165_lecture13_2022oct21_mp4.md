@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture13_2022oct21.mp4
+title: 'Lecture 13: Cities and Renewable Energy, part 1: Wind'
 uid: a2da94e5-5de9-4616-a3ad-e74e4a198c2c
 video_files:
   archive_url: ''
