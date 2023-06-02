@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture14_2022oct25.mp4
+title: 'Lecture 14: Cities and Renewable Energy, part 2: Solar'
 uid: f091d67d-65f2-42cc-856b-d389597f06c7
 video_files:
   archive_url: ''
