@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture04_2022sep16.mp4
+title: 'Lecture 4: The Built Environment, Land Use, and Decarbonization'
 uid: 64dd66eb-1786-407b-b1c0-0da9688492dd
 video_files:
   archive_url: ''
