@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture03_2022sep14.mp4
+title: 'Lecture 3: Cities and a Just Energy Transition'
 uid: d766709a-ccdf-493b-b173-0de744c7801e
 video_files:
   archive_url: ''
