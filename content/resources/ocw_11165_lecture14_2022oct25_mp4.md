@@ -26,19 +26,26 @@ video_metadata:
 
     Instructor: Prof. David Hsu
 
+
     View the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/
 
+
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG
+
 
     In this video, Prof. Hsu discusses the potential for expansion of solar power
     generation, as well as the likelihood that the costs of solar power will continue
     to decrease in coming years.
 
+
     License: Creative Commons BY-NC-SA
+
 
     More information at https://ocw.mit.edu/terms
 
+
     More courses at https://ocw.mit.edu
+
 
     Support OCW at http://ow.ly/a1If50zVRlQ'
   youtube_id: 3WXWESx6jWY
