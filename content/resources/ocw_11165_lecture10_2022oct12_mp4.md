@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture10_2022oct12.mp4
+title: 'Lecture 10: Cities and the Idea of Energy Efficiency'
 uid: 6b78e6f8-4ec3-4260-b5ed-cbcf050a47d1
 video_files:
   archive_url: ''
