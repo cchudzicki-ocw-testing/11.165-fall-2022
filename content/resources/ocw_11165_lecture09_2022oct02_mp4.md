@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture09_2022oct02.mp4
+title: 'Lecture 9: Building Energy Policies'
 uid: d3bcfcfa-9dd2-47b7-bd38-21c15f7fd4a2
 video_files:
   archive_url: ''
