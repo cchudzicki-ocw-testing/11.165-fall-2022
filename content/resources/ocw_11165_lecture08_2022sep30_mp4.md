@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture08_2022sep30.mp4
+title: 'Lecture 8: Buildings and Energy Efficiency'
 uid: 9ed3ed12-a586-49d1-9621-b91ee1aa4261
 video_files:
   archive_url: ''
