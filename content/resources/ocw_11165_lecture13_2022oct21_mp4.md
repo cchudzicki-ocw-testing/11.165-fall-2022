@@ -23,12 +23,12 @@ video_metadata:
   video_speakers: Prof. David Hsu
   video_tags: onshore wind, offshore wind, turbines, intermittency
   youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
-    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
-    \nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
+    \ Prof. David Hsu\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
     \nIn this video, Prof. Hsu discusses the prospects for further development of\
     \ wind farms, both onshore and offshore. \n\nLicense: Creative Commons BY-NC-SA\n\
-    \nMore information at https://ocw.mit.edu/terms\n\nMore courses at https://ocw.mit.edu\n\
-    \nSupport OCW at http://ow.ly/a1If50zVRlQ"
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ"
   youtube_id: ITE9w9wKVKU
 ---
 In this video, Prof. Hsu discusses the prospects for further development of wind farms, both onshore and offshore.
