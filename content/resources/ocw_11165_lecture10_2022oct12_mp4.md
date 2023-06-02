@@ -22,26 +22,16 @@ video_files:
 video_metadata:
   video_speakers: Prof. David Hsu
   video_tags: energy intensity, carbon intensity, heat loss, electrification
-  youtube_description: 'MIT 11.165 Urban Energy Systems and Policy, Fall 2022
-
-    Instructor: Prof. David Hsu
-
-    View the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/
-
-    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG
-
-
-    In this video, Prof. Hsu discusses the viability of efforts to reduce energy consumption
-    by increasing efficiency.
-
-
-    License: Creative Commons BY-NC-SA
-
-    More information at https://ocw.mit.edu/terms
-
-    More courses at https://ocw.mit.edu
-
-    Support OCW at http://ow.ly/a1If50zVRlQ'
+  youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
+    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
+    \nIn this video, Prof. Hsu discusses the viability of efforts to reduce energy\
+    \ consumption by increasing efficiency.\n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: u1_Wq00b4J8
 ---
 In this video, Prof. Hsu discusses the viability of efforts to reduce energy consumption by increasing efficiency.
