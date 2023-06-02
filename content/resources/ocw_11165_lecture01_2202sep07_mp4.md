@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture01_2202sep07.mp4
+title: 'Lecture 1: Cities and Climate Action: Or, Why Take This Class?'
 uid: 15b5152b-5734-4b52-b753-b7b272f2ce08
 video_files:
   archive_url: ''
