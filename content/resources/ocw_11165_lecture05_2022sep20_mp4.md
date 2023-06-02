@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture05_2022sep20.mp4
+title: 'Lecture 5: Energy and Personal Transport'
 uid: 8e4a0010-29c7-46d7-a95f-686bb5f224e7
 video_files:
   archive_url: ''
