@@ -22,27 +22,17 @@ video_files:
 video_metadata:
   video_speakers: Prof. David Hsu
   video_tags: carbon sequestration, carbon capture, synthetic fuel, nuclear power
-  youtube_description: 'MIT 11.165 Urban Energy Systems and Policy, Fall 2022
-
-    Instructor: Prof. David Hsu
-
-    View the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/
-
-    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG
-
-
-    In this video, Prof. Hsu discusses efforts to make carbon capture economically
-    viable, as well as the relative costs of renewables versus nuclear power and fossil-fuel-derived
-    energy.
-
-
-    License: Creative Commons BY-NC-SA
-
-    More information at https://ocw.mit.edu/terms
-
-    More courses at https://ocw.mit.edu
-
-    Support OCW at http://ow.ly/a1If50zVRlQ'
+  youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
+    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
+    \nIn this video, Prof. Hsu discusses efforts to make carbon capture economically\
+    \ viable, as well as the relative costs of renewables versus nuclear power and\
+    \ fossil-fuel-derived energy.\n\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: fQm97XdYErA
 ---
 In this video, Prof. Hsu discusses efforts to make carbon capture economically viable, as well as the relative costs of renewables versus nuclear power and fossil-fuel-derived energy.
