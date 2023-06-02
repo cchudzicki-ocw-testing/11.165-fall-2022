@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture02_2022sep10.mp4
+title: 'Lecture 2: Cities and Decarbonization'
 uid: d44cba89-7d4b-4cc5-8f29-7a00ba974df1
 video_files:
   archive_url: ''
