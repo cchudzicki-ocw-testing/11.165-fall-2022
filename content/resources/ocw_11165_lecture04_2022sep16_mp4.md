@@ -28,7 +28,10 @@ video_metadata:
     \nIn this video, Prof. Hsu discusses how land use issues affect the approach to\
     \ the decarbonization of cities. \n\nLicense: Creative Commons BY-NC-SA\nMore\
     \ information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
-    Support OCW at http://ow.ly/a1If50zVRlQ\n"
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments.\n"
   youtube_id: V2P5SXVl2KA
 ---
 In this video, Prof. Hsu discusses how land use issues affect the approach to the decarbonization of cities.
