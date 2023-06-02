@@ -24,11 +24,11 @@ video_metadata:
   video_tags: greenbelts, climate mitigation, carbon storage, sequestration, NEPA
   youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
     \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
-    \nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
     \nIn this video, Prof. Hsu discusses how land use issues affect the approach to\
-    \ the decarbonization of cities. \n\nLicense: Creative Commons BY-NC-SA\n\nMore\
-    \ information at https://ocw.mit.edu/terms\n\nMore courses at https://ocw.mit.edu\n\
-    \nSupport OCW at http://ow.ly/a1If50zVRlQ\n"
+    \ the decarbonization of cities. \n\nLicense: Creative Commons BY-NC-SA\nMore\
+    \ information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n"
   youtube_id: V2P5SXVl2KA
 ---
 In this video, Prof. Hsu discusses how land use issues affect the approach to the decarbonization of cities.
