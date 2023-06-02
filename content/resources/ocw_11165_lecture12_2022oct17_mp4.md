@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_11.165_Lecture12_2022oct17.mp4
+title: 'Lecture 12: Cities, Future Fossil Fuel Use, CCUS, and Nuclear Energy'
 uid: 3c26dfda-3393-469a-bf9c-9611ecd9e6d7
 video_files:
   archive_url: ''
