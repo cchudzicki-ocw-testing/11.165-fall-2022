@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                                 
-                                                
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                                  
+                                                 
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -252,9 +252,7 @@ David Hsu (202). ["Straight out of Cape Cod: The Origin of Community Choice Aggr
 
 \[skim\] Ignacio Pérez-Arriaga and Christopher Knittel. [The Utility of the Future (PDF - 11 MB)](https://energy.mit.edu/wp-content/uploads/2016/12/Utility-of-the-Future-Full-Report.pdf). Technical report, MIT Energy Initiatve, 2016.
 
-### Sessions 23–26
-
-\[No readings assigned\]
+### Sessions 24–26
 
 \[DM\] chapter 13
 
