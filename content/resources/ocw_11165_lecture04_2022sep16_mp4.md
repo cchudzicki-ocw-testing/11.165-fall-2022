@@ -21,7 +21,8 @@ video_files:
   video_transcript_file: /courses/11-165j-urban-energy-systems-and-policy-fall-2022/1ih6Tw5DPfeoppSAAnJUqQ7ExLW48tOo8_transcript.pdf
 video_metadata:
   video_speakers: Prof. David Hsu
-  video_tags: greenbelts, climate mitigation, carbon storage, sequestration, NEPA
+  video_tags: greenbelts, climate mitigation, carbon storage, sequestration, NEPA,
+    DubbedWithAloud
   youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
     \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
