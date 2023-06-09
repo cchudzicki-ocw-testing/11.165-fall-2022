@@ -22,3 +22,4 @@ videos:
   - 33d7c674-19fd-4a9e-8206-386904ae8d1b
   website: urban-energy-systems-and-policy-fall-2022
 ---
+Note: Videos for lectures 16 through 22 are not available at this time.
