@@ -14,7 +14,7 @@ uid: 5fed9bbb-3091-425f-bbf9-f7793ca18270
 
 {{% resource_link "eed01fc6-0d5f-4085-965c-35273278171a" "Lecture 4: The Built Environment, Land Use, and Decarbonization (PDF - 1.2 MB)" %}}
 
-{{% resource_link "eed01fc6-0d5f-4085-965c-35273278171a" "Lecture 5: Energy and Personal Transport (PDF - 1.9 MB)" %}}
+{{% resource_link "8a5fa7cc-dc99-4042-9ca5-28a2788d2a85" "Lecture 5: Energy and Personal Transport (PDF - 1.9 MB)" %}}
 
 {{% resource_link "25ca7cf4-5fb3-4e0e-844a-9edf7df7cba6" "Lecture 6: Cities and Transport Systems (PDF - 1.2 MB)" %}}
 
