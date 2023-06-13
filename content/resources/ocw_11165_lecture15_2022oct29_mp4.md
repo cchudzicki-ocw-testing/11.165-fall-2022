@@ -26,7 +26,7 @@ video_metadata:
     \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
     \nIn this video, Prof. Hsu discusses the history of the electrification of cities,\
-    \ along with the current state of electrity supply systems worldwide.\n\n[Note:\
+    \ along with the current state of electricity supply systems worldwide.\n\n[Note:\
     \ Videos for lectures 16 through 22 are not available at this time.]\n\nLicense:\
     \ Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore\
     \ courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\n\
@@ -35,4 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: pCR98Hv-HUk
 ---
-In this video, Prof. Hsu discusses the history of the electrification of cities, along with the current state of electrity supply systems worldwide.
+In this video, Prof. Hsu discusses the history of the electrification of cities, along with the current state of electricity supply systems worldwide.
