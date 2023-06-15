@@ -23,7 +23,7 @@ video_metadata:
   video_speakers: Prof. David Hsu
   video_tags: Edison, Nicola Tesla, generation, substations, grid architecture
   youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
-    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
+    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/11-165j-urban-energy-systems-and-policy-fall-2022/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
     \nIn this video, Prof. Hsu discusses the history of the electrification of cities,\
     \ along with the current state of electricity supply systems worldwide.\n\n[Note:\
