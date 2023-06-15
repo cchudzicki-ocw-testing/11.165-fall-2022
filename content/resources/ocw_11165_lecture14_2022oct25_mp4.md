@@ -23,7 +23,7 @@ video_metadata:
   video_speakers: Prof. David Hsu
   video_tags: solar power, irradiation, photovoltaic, CSP, CDF, energy density
   youtube_description: "MIT 11.165 Urban Energy Systems and Policy, Fall 2022\nInstructor:\
-    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/urban-energy-systems-and-policy-fall-2022/\n\
+    \ Prof. David Hsu\n\nView the complete course: https://ocw.mit.edu/courses/11-165j-urban-energy-systems-and-policy-fall-2022/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
     \nIn this video, Prof. Hsu discusses the potential for expansion of solar power\
     \ generation, as well as the likelihood that the costs of solar power will continue\
