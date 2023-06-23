@@ -29,12 +29,14 @@ video_metadata:
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG\n\
     \nIn this video, Prof. Hsu discusses efforts to make carbon capture economically\
     \ viable, as well as the relative costs of renewables versus nuclear power and\
-    \ fossil-fuel-derived energy.\n\nLicense: Creative Commons BY-NC-SA\nMore information\
-    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
-    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
-    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
-    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
-    \ More details at https://ocw.mit.edu/comments."
+    \ fossil-fuel-derived energy.\n\nThis video has been dubbed using an artificial\
+    \ voice via https://aloud.area120.google.com to increase accessibility. You can\
+    \ change the audio track language in the Settings menu.\n\nLicense: Creative Commons\
+    \ BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: fQm97XdYErA
 ---
 In this video, Prof. Hsu discusses efforts to make carbon capture economically viable, as well as the relative costs of renewables versus nuclear power and fossil-fuel-derived energy.
