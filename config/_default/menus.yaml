@@ -7,9 +7,9 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 20
-- identifier: e5fb600c-2151-49c5-8f85-166a460c6ce9
+- identifier: ecf18866-041c-41bf-bae3-bed2a9f3738d
   name: Lecture Videos
-  pageRef: /video_galleries/this-page-presents-prerecorded-lecture-videos-that-were-viewed-by-the-students-in-11165-urban-energy-systems-and-policy
+  pageRef: /video_galleries/lecture-videos
   weight: 30
 - identifier: 5fed9bbb-3091-425f-bbf9-f7793ca18270
   name: Lecture Slides
@@ -19,7 +19,3 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 50
-- identifier: ecf18866-041c-41bf-bae3-bed2a9f3738d
-  name: Lecture Videos
-  pageRef: /video_galleries/lecture-videos
-  weight: 60
